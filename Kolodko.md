@@ -1,2 +1,2 @@
 # Kolodko Mihály
-![Kolodko]()
+![Kolodko](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/kolodko.jpg)
