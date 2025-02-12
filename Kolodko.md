@@ -3,5 +3,5 @@
 ![Kol2](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/kol2.jpg)
 ![Kol3](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/kol3.jpg)
 ![Kol4](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/kol4.jpg)
-![Kol5]()
+![Kol5](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/kol5.jpg)
 ![Kol6]()
