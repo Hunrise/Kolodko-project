@@ -12,4 +12,8 @@
 # Munkásága
 ## Kolodko miniszobrai különleges helyet foglalnak el a városi művészet palettáján. Ezek az apró alkotások nem csupán esztétikai élményt nyújtanak, hanem interakcióra is ösztönzik a városlakókat és a turistákat. A szobrok felfedezése egyfajta "városi kincsvadászat", amely során az emberek újra és újra rácsodálkozhatnak a város ismerős vagy éppen rejtett szegleteire. A művész nem hirdeti meg előre az új szobrok elhelyezését, így azok váratlan megjelenése mindig meglepetést okoz, és új beszédtémát ad a közösségnek.
 ### Források
-[Wikipédia](https://hu.wikipedia.org/wiki/Kolodko_Mih%C3%A1ly )
+[Wikipédia](https://hu.wikipedia.org/wiki/Kolodko_Mih%C3%A1ly)
+[Kolodko.hu](https://www.kolodko.hu/about )
+[Budapesti séták](https://pestbudaisetak.hu/kolodko-szobrok-budapest-legkisebb-megis-legnagyobb-szenzacioi/)
+[Életforma.hu](https://eletforma.hu/kul-tour/kolodko-mihaly-gerillaszobrai-nyomaban/ )
+[Váci naplo](.https://vaci-naplo.hu/2021/07/kolodko-mihaly-apro-szobrok-nagy-sikerek/ )
