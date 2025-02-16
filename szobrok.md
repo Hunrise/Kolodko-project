@@ -26,7 +26,7 @@
 [Skála Kópé](https://szallas.hu/programok/kolodko:-skala-kope-budapest-p20407)
 [Holdjáro](https://www.bing.com/ck/a?!&&p=2af4058bf7a692f21bc96428d5d11c33de6d08a20837566938bcfbf82adf79f5JmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+holdjro&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1ob2xkamFyby1taW5pc3pvYm9yLWJ1ZGFwZXN0LXA5MDkx&ntb=1)
 [Balta](https://www.bing.com/ck/a?!&&p=c0aa11eafb94dd2be129bb74bb0289eb7827bf95793e5d057ea101568309a80aJmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+balta&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1iYWx0YS1idWRhcGVzdC1wMjA1Mzg&ntb=1)
-[Breki](:https://www.bing.com/ck/a?!&&p=e1fc7b7065200f3c24b13250013fa0aaae7232395f9e5867ed4f73333b8cddc6JmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+breki&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1icmVraS1taW5pc3pvYnJhLWJ1ZGFwZXN0LXA5MTQw&ntb=1)
+[Breki](https://www.bing.com/ck/a?!&&p=e1fc7b7065200f3c24b13250013fa0aaae7232395f9e5867ed4f73333b8cddc6JmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+breki&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1icmVraS1taW5pc3pvYnJhLWJ1ZGFwZXN0LXA5MTQw&ntb=1)
 [halott mókus](https://www.ittjartam.hu/budapest/szobrok/kolodko-halott-mokus-szobor/)
 [Usánka](https://enbudapestem.hu/2023/05/09/kolodko-ujra-kihelyezte-a-miniusanka-szobrot-amit-a-mi-hazank-kepviseloje-vert-le-es-dobott-a-dunaba)
 [Mr.bean](https://szallas.hu/programok/kolodko:-mr.-bean-mackoja-miniszobor-budapest-p9090)
