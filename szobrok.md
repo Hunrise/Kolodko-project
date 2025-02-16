@@ -10,5 +10,17 @@
 # Breki
 ![](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/szob1.jpg)
 ## Kolodko Mihály, az ungvári születésű szobrászművész, 2017 júniusában újabb miniszoborral gazdagította Budapest utcáit. A Muppet Show-ból ismert Brekit ábrázoló alkotás a Szabadság téren, a Hütte kávézóval szemben, a park egyik vaskerítésének tövében található. Elhelyezése nem véletlen: a szobor a Magyar Televízió egykori székháza közelében kapott helyet, utalva arra, hogy a népszerű bábműsor egykor innen került a magyar nézők otthonaiba. Az apró bronzszobor hamar a városlakók és turisták kedvencévé vált, azonban többször is megpróbálták eltulajdonítani. Kolodko Mihály ezért megerősítette a rögzítését, hogy Breki továbbra is mosolyt csalhasson az arra járók arcára. Ez a miniszobor is jól példázza Kolodko művészetének lényegét: apró alkotásaival nemcsak a város arculatát gazdagítja, hanem a közös kulturális emlékeket is feleleveníti, szoros kapcsolatot teremtve a helyszín és a mű mondanivalója között.
+# 
+![]()
+## 
+#
+![]()
+##
+#
+![]()
+##
+#
+![]()
+##
 
 
