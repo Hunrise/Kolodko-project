@@ -10,18 +10,27 @@
 # Breki
 ![](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/szob1.jpg)
 ## Kolodko Mihály, az ungvári születésű szobrászművész, 2017 júniusában újabb miniszoborral gazdagította Budapest utcáit. A Muppet Show-ból ismert Brekit ábrázoló alkotás a Szabadság téren, a Hütte kávézóval szemben, a park egyik vaskerítésének tövében található. Elhelyezése nem véletlen: a szobor a Magyar Televízió egykori székháza közelében kapott helyet, utalva arra, hogy a népszerű bábműsor egykor innen került a magyar nézők otthonaiba. Az apró bronzszobor hamar a városlakók és turisták kedvencévé vált, azonban többször is megpróbálták eltulajdonítani. Kolodko Mihály ezért megerősítette a rögzítését, hogy Breki továbbra is mosolyt csalhasson az arra járók arcára. Ez a miniszobor is jól példázza Kolodko művészetének lényegét: apró alkotásaival nemcsak a város arculatát gazdagítja, hanem a közös kulturális emlékeket is feleleveníti, szoros kapcsolatot teremtve a helyszín és a mű mondanivalója között.
-# 
-![]()
-## 
-#
-![]()
-##
-#
-![]()
-##
-#
-![]()
-##
+# Halott Mókus
+![](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/szob5.jpg)
+## A "Halott mókus" egy apró szobor, amely Kolodko Mihály ukrán-magyar szobrászművész munkája, és Budapest belvárosában található. A szobor egy mókust ábrázol, aki a földön fekve, kezében pisztolyt tart, ezzel a mű a művész ironikus, szarkasztikus stílusát tükrözi. Az alkotás egy rejtélyes, akár bűntényt is sugalló történetet sejtet, amelyben a mókus halálát öngyilkosságként tálalják. A szobor egy városi gerillaművészeti projekt része, és az apró műalkotások sorába illeszkedik, amelyek Budapestre jellemzőek.
+# Usánka
+![](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/szob6.jpg)
+## A usánka szobor Kolodko Mihály gerillaművészeti alkotása, amely egy politikai és társadalmi kommentárt képvisel. Az első verziója 2019 novemberében a Szabadság téren kapott helyet, és egy fiatal férfit ábrázolt, aki usánkát visel, miközben ironikus módon a politikai tájat kritizálja. Az alkotást a Mi Hazánk képviselője, dr. Fülöp Erik letépte és a Dunába dobta. Kolodko a szobor újbóli kihelyezésével válaszolt, ezzel erősítve a művészeti kommentárt és a szabadság melletti állásfoglalását.
+# Mr.Bean
+![](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/szob7.jpg)
+## Kolodko Mihály, a neves gerillaszobrász, 2020 novemberében újabb miniszobrot helyezett el Budapesten. A Harmincad utca 6. szám alatti épületre, az egykori Brit Nagykövetség falára került Mr. Bean mackója, a híres brit komikus, Rowan Atkinson által megformált karakter ikonikus plüssállata. Ez a szobor tisztelgés a brit kultúra előtt, és emléket állít a brit diplomáciai képviseletnek, amely 70 éven át működött ezen a helyszínen. A miniszobor elhelyezése nemcsak a brit kultúra előtt tiszteleg, hanem a brit diplomáciai képviselet előtt is, amely 70 éven át működött ezen a helyszínen. A szobor a brit nagykövetség épületére került, amely a Harmincad utca 6. szám alatt található.
+# Búvár és Kulcs
+![](https://github.com/Hunrise/Kolodko-project/blob/main/kepek/szob8.jpg)
+## Kolodko Mihály, a neves gerillaszobrász, 2014-ben elhelyezte a "Búvár és a kulcs" miniszobrot a Dohány utca 53. szám alatt, a New York Kávéház közelében. A kis bronzszobor egy tűzcsap tetején ülő búvárt ábrázol, aki a mellette lévő kulcsot őrzi. Ez a kulcs a legenda szerint a New York Kávéház nyitásához szükséges, és a szobor a kávéház történetéhez kapcsolódik. A történet szerint Molnár Ferenc, a híres író, a kávéház 1894-es megnyitásakor a kulcsot a Dunába dobta, hogy a kávéház mindig nyitva álljon a vendégek előtt. A szobor ezt a hagyományt idézi meg, és tiszteleg a New York Kávéház előtt, amely Budapest egyik legismertebb kávéháza.
+# források
+[Skála Kópé](https://szallas.hu/programok/kolodko:-skala-kope-budapest-p20407)
+[Holdjáro](https://www.bing.com/ck/a?!&&p=2af4058bf7a692f21bc96428d5d11c33de6d08a20837566938bcfbf82adf79f5JmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+holdjro&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1ob2xkamFyby1taW5pc3pvYm9yLWJ1ZGFwZXN0LXA5MDkx&ntb=1)
+[Balta](https://www.bing.com/ck/a?!&&p=c0aa11eafb94dd2be129bb74bb0289eb7827bf95793e5d057ea101568309a80aJmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+balta&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1iYWx0YS1idWRhcGVzdC1wMjA1Mzg&ntb=1)
+[Breki](:https://www.bing.com/ck/a?!&&p=e1fc7b7065200f3c24b13250013fa0aaae7232395f9e5867ed4f73333b8cddc6JmltdHM9MTczOTY2NDAwMA&ptn=3&ver=2&hsh=4&fclid=21eebcb4-d365-6edb-1491-a997d2786fd0&psq=kolodko+breki&u=a1aHR0cHM6Ly9zemFsbGFzLmh1L3Byb2dyYW1vay9rb2xvZGtvOi1icmVraS1taW5pc3pvYnJhLWJ1ZGFwZXN0LXA5MTQw&ntb=1)
+[halott mókus](https://www.ittjartam.hu/budapest/szobrok/kolodko-halott-mokus-szobor/)
+[Usánka](https://enbudapestem.hu/2023/05/09/kolodko-ujra-kihelyezte-a-miniusanka-szobrot-amit-a-mi-hazank-kepviseloje-vert-le-es-dobott-a-dunaba)
+[Mr.bean](https://szallas.hu/programok/kolodko:-mr.-bean-mackoja-miniszobor-budapest-p9090)
+[Búvár és Kulcs](https://szallas.hu/programok/kolodko:-buvar-es-a-kulcs-miniszobor-budapest-p9012)
 [Prezi](https://prezi.com/view/ApY2X2Xcip6QXmEaUiz6/)
 
 
